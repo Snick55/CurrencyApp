@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="try_again">try again</string>
+    <string name="last_update_title">last update of currency was: %1$s</string>
+</resources>
